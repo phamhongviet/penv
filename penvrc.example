@@ -1,0 +1,3 @@
+PENV_DRIVER=etcd
+PENV_ETCD_HOST=http://127.0.0.1:2379/v2/keys
+PENV_ETCD_KEY_PREFIX=/srv/app/config/
